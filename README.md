@@ -1,7 +1,1 @@
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus297&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
