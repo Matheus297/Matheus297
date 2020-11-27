@@ -5,9 +5,8 @@ I am a bachelor's degree in science and technology, I started to fall in love wi
 <br>
 <i>"The more difficult the challenge is, the faster I will solve that problem again." By me</i>
 <br>
-[youtube]: https://www.youtube.com
 ##### My tools for development
-<p style="text-align: center">
+<p align="center">
   
 <a>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" style="width: 20px;height: 20px;" />
