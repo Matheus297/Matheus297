@@ -10,7 +10,7 @@ I am a bachelor's degree in science and technology, I started to fall in love wi
 <p style="text-align: center">
   
 <a>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" style="width: 20px;height: 20px;" />
 </a>
 </p>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Matheus297&show_icons=true&theme=radical)
