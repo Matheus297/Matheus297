@@ -34,7 +34,7 @@ I am a bachelor's degree in science and technology, I started to fall in love wi
 <br>
 
 ### Hobbies
- 🎮 I like play games<br>
+ 🎮 Play games<br>
  🎸 Play musics on the eletric guitar<br>
  🎧 Listen musics<br>
 
