@@ -33,6 +33,11 @@ I am a bachelor's degree in science and technology, I started to fall in love wi
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 <br>
 
+### Hobbies
+ 🎮 I like play games<br>
+ 🎸 Play musics on the eletric guitar<br>
+ 🎧 Listen musics<br>
+
 ### My Stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Matheus297&show_icons=true&theme=radical)
