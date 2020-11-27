@@ -18,6 +18,9 @@ I am a bachelor's degree in science and technology, I started to fall in love wi
 <br>
 
 ### Skills
+<a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</a>
 
 ### My tools for development
 
