@@ -16,7 +16,6 @@ I am a bachelor's degree in science and technology, I started to fall in love wi
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 <br>
-<br>
 
 ### Skills
 
