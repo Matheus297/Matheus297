@@ -17,6 +17,9 @@ I am a bachelor's degree in science and technology, I started to fall in love wi
 </a>
 <br>
 <br>
+
+### Skills
+
 ### My tools for development
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Matheus297&show_icons=true&theme=radical)
